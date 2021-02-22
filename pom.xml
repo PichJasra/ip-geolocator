@@ -4,7 +4,7 @@
 	<distributionManagement>
 	  <site>
 	    <id>shrek</id>
-	    <url>scp://@shrek.unideb.hu:2222/home/bfeco/public_html/${project.artifactId}</url>
+	    <url>scp://bfeco@shrek.unideb.hu:2222/home/bfeco/public_html/${project.artifactId}</url>
 	  </site>
 	</distributionManagement>
 	<modelVersion>4.0.0</modelVersion>
